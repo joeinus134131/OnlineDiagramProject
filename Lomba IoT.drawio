@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T13:23:49.976Z" agent="5.0 (Windows)" version="14.4.8" etag="2IoUAIVkpHeZUGjLWAcN" type="github"><diagram id="KQNDygcgDZLvnODnP6uo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-08T16:46:14.148Z" agent="5.0 (Windows)" etag="4JKhBsGSwUFcy1vxAFpN" version="14.4.8" type="github">
+  <diagram id="KQNDygcgDZLvnODnP6uo" name="Page-1">
+    <mxGraphModel dx="834" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GLq082n1MHP-56mILdO1-1" value="&lt;div&gt;Sensor suhu&lt;/div&gt;&lt;div&gt;MLX90614&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GLq082n1MHP-56mILdO1-2" value="&lt;div&gt;Siste IoT&lt;/div&gt;&lt;div&gt;Wireless Conection&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GLq082n1MHP-56mILdO1-3" value="Sensor " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GLq082n1MHP-56mILdO1-4" value="&lt;div&gt;Baterai Lippo&lt;br&gt;&lt;/div&gt;&lt;div&gt;5V&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
