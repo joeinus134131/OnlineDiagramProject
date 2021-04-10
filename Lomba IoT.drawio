@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T03:40:48.832Z" agent="5.0 (Windows)" etag="7WszCh3Eu19WMWxPsJVd" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T03:45:34.261Z" agent="5.0 (Windows)" etag="v1n1VD7rfc27VdJaVZl8" version="14.5.10" type="github">
   <diagram id="KQNDygcgDZLvnODnP6uo" name="Page-1">
     <mxGraphModel dx="1210" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="rLE2kNvw1dQ29zigf44E-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="GLq082n1MHP-56mILdO1-2" target="rLE2kNvw1dQ29zigf44E-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GLq082n1MHP-56mILdO1-2" value="&lt;div&gt;Sistem IoT&lt;/div&gt;&lt;div&gt;Wireless Conection&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GLq082n1MHP-56mILdO1-2" value="&lt;div&gt;Wemos D1 Mini Board&lt;/div&gt;&lt;div&gt;Sistem IoT&lt;/div&gt;&lt;div&gt;Wireless Conection&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="170" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rLE2kNvw1dQ29zigf44E-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GLq082n1MHP-56mILdO1-3" target="GLq082n1MHP-56mILdO1-2">
@@ -40,7 +40,7 @@
         <mxCell id="rLE2kNvw1dQ29zigf44E-8" value="RTC(Real Time Clock)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rLE2kNvw1dQ29zigf44E-10" value="User Monitoring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rLE2kNvw1dQ29zigf44E-10" value="&lt;div&gt;User Monitoring&lt;/div&gt;&lt;div&gt;Android&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="240" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rLE2kNvw1dQ29zigf44E-11" value="HTTP Get Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
