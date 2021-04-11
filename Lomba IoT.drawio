@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T17:06:16.469Z" agent="5.0 (Windows)" etag="VRz_rIOr83g4Ue_ekYE3" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T17:19:27.660Z" agent="5.0 (Windows)" etag="z0JPKrSYtS1-eva8MOkE" version="14.5.10" type="github">
   <diagram id="KQNDygcgDZLvnODnP6uo" name="Page-1">
     <mxGraphModel dx="1210" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rLE2kNvw1dQ29zigf44E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GLq082n1MHP-56mILdO1-1" target="GLq082n1MHP-56mILdO1-2" edge="1">
+        <mxCell id="rLE2kNvw1dQ29zigf44E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GLq082n1MHP-56mILdO1-1" target="GLq082n1MHP-56mILdO1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GLq082n1MHP-56mILdO1-1" value="&lt;div&gt;Sensor suhu&lt;/div&gt;&lt;div&gt;MLX90614&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rLE2kNvw1dQ29zigf44E-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" parent="1" source="GLq082n1MHP-56mILdO1-2" target="rLE2kNvw1dQ29zigf44E-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -16,11 +16,11 @@
         <mxCell id="GLq082n1MHP-56mILdO1-2" value="&lt;div&gt;Wemos D1 Mini Board&lt;/div&gt;&lt;div&gt;Sistem IoT&lt;/div&gt;&lt;div&gt;Wireless Conection&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="170" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="rLE2kNvw1dQ29zigf44E-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GLq082n1MHP-56mILdO1-3" target="GLq082n1MHP-56mILdO1-2" edge="1">
+        <mxCell id="rLE2kNvw1dQ29zigf44E-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GLq082n1MHP-56mILdO1-3" target="GLq082n1MHP-56mILdO1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GLq082n1MHP-56mILdO1-3" value="MAX30100 Pulse Oximeter and Heart-Rate Sensor " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rLE2kNvw1dQ29zigf44E-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="M0zyZgAfgKPM6vkzv-a--2" target="GLq082n1MHP-56mILdO1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="M0zyZgAfgKPM6vkzv-a--4" value="Gps NeoBoX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M0zyZgAfgKPM6vkzv-a--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.004;entryY=0.864;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M0zyZgAfgKPM6vkzv-a--6" target="GLq082n1MHP-56mILdO1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M0zyZgAfgKPM6vkzv-a--6" value="&lt;div&gt;Sensor DHT11&lt;/div&gt;&lt;div&gt;Kelembaban &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
