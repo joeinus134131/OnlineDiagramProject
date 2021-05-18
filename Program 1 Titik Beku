@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T00:49:23.680Z" agent="5.0 (Windows)" etag="rOACjqNERu-hlRgsiyR8" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T00:57:44.141Z" agent="5.0 (Windows)" etag="26pymQ3mTuNaq54VaFlR" version="14.6.13" type="github">
   <diagram id="bREd9C3gRcp-QZJx3fO8" name="Page-1">
-    <mxGraphModel dx="2017" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
             <mxPoint x="441.25" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ZuQ8VW8Blwg8g8ROsZB-38" value="for(int d = 0; d&amp;lt;=h; d++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8ZuQ8VW8Blwg8g8ROsZB-38" value="for (i=0; i&amp;lt;n; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="206.25" y="610" width="167.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ZuQ8VW8Blwg8g8ROsZB-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ZuQ8VW8Blwg8g8ROsZB-42" target="8ZuQ8VW8Blwg8g8ROsZB-65">
@@ -98,7 +98,7 @@
             <mxPoint x="589.375" y="1190.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ZuQ8VW8Blwg8g8ROsZB-58" value="for(int d = 0; d&amp;lt;=h; d++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8ZuQ8VW8Blwg8g8ROsZB-58" value="for (i=0; i&amp;lt;n; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="640" width="158.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ZuQ8VW8Blwg8g8ROsZB-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ZuQ8VW8Blwg8g8ROsZB-65">
