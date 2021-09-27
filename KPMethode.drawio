@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T02:15:40.659Z" agent="5.0 (Windows)" version="15.3.4" etag="yRlsPl0AqVleMdP_i3ZG" type="github"><diagram id="Ufo-s-5vOb1qWkpKEKgw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-27T05:31:28.170Z" agent="5.0 (Windows)" etag="YzsOfZ1SsE2dqNm2MIgW" version="15.3.4" type="github">
+  <diagram id="Ufo-s-5vOb1qWkpKEKgw" name="Page-1">
+    <mxGraphModel dx="1210" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="LFA3Y3XbIRwIa6TQyhG4-1" target="LFA3Y3XbIRwIa6TQyhG4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-1" value="Mulai" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="LFA3Y3XbIRwIa6TQyhG4-2" target="LFA3Y3XbIRwIa6TQyhG4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-2" value="Observasi/Identifikasi masalah" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="140" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="LFA3Y3XbIRwIa6TQyhG4-3" target="LFA3Y3XbIRwIa6TQyhG4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-3" value="&lt;div&gt;Wawancara dengan &lt;br&gt;&lt;/div&gt;&lt;div&gt;Engineer Maintenance Instrument&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="250" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="LFA3Y3XbIRwIa6TQyhG4-4" target="LFA3Y3XbIRwIa6TQyhG4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-4" value="&lt;div&gt;Perancangan&lt;/div&gt;&lt;div&gt;Penyelesaian Masalah&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="370" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="LFA3Y3XbIRwIa6TQyhG4-5" target="LFA3Y3XbIRwIa6TQyhG4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-5" value="&lt;div&gt;Pembuatan Interface &lt;br&gt;&lt;/div&gt;&lt;div&gt;Aplikasi Perhitungan Rasio&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="470" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="LFA3Y3XbIRwIa6TQyhG4-6" target="LFA3Y3XbIRwIa6TQyhG4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-6" value="&lt;div&gt;Pengujian Software&lt;/div&gt;&lt;div&gt;Stoikometrik Calculator&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="LFA3Y3XbIRwIa6TQyhG4-7" target="LFA3Y3XbIRwIa6TQyhG4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-7" value="Analisis Hasil Pengujian" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="LFA3Y3XbIRwIa6TQyhG4-8" target="LFA3Y3XbIRwIa6TQyhG4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-8" value="Evaluasi Hasil" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="LFA3Y3XbIRwIa6TQyhG4-9" target="LFA3Y3XbIRwIa6TQyhG4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-9" value="Membandingkan nilai aktual dan simulasi perhitungan " style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LFA3Y3XbIRwIa6TQyhG4-27" value="Selesai" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
