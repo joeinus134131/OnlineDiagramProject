@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T12:59:55.072Z" agent="5.0 (Windows)" etag="j4erOQR8N-GKYr9Ng1bn" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T13:04:07.410Z" agent="5.0 (Windows)" etag="HLnZlvnHtyviQ7htzUKQ" version="15.3.8" type="github">
   <diagram id="V8tvJf8nlh288LA975P1" name="Page-1">
     <mxGraphModel dx="1210" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,18 @@
         </mxCell>
         <mxCell id="JJ_L_oT8lgn2OS0n2sYU-6" value="Pengamatan Flame Scanner Start up Burner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="150" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-7" value="Selesai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-8" value="Proses Penyelesaian Administrasi Selesai Kerja Praktik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-9" value="Pengerjaan Laporan Akhir dan PPT Akhir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-10" value="Presentasi Kerja Praktik Tahap 1 di Perusahaan PLTU UPK Tarahan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
