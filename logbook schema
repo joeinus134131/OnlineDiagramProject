@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T07:57:33.281Z" agent="5.0 (Windows)" etag="nosoyHvaAsIGoHiYKkox" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T12:56:44.967Z" agent="5.0 (Windows)" etag="ZDAS-2pOQ3BuBtoyPFpK" version="15.3.8" type="github">
   <diagram id="V8tvJf8nlh288LA975P1" name="Page-1">
     <mxGraphModel dx="1210" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mxMeKNb3oaE6FGFnLUK3-1" value="mulai" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="mxMeKNb3oaE6FGFnLUK3-1" value="mulai" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-1" value="Proses Administrasi Masuk Kerja Praktik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-2" value="Pengenalan Pertama HAR Instrumenasi dan Kontrol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-3" value="&lt;div&gt;Pengenalan Sistem Pengolahan FABA&lt;/div&gt;&lt;div&gt;(Baghouse)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-4" value="Pengenalan prinsip kerja AV unit 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
