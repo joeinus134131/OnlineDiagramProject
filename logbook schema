@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T13:04:07.410Z" agent="5.0 (Windows)" etag="HLnZlvnHtyviQ7htzUKQ" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T13:24:41.464Z" agent="5.0 (Windows)" etag="jw162g6_I2XZ3bgiWBrq" version="15.3.8" type="github">
   <diagram id="V8tvJf8nlh288LA975P1" name="Page-1">
     <mxGraphModel dx="1210" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,6 +36,12 @@
         </mxCell>
         <mxCell id="JJ_L_oT8lgn2OS0n2sYU-10" value="Presentasi Kerja Praktik Tahap 1 di Perusahaan PLTU UPK Tarahan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-11" value="Mempelajari Kalibrasi Sensor Transmitter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="530" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_L_oT8lgn2OS0n2sYU-12" value="Observasi Permasalahan yang dapat dijadikan topik kerja praktik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="460" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
