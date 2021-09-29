@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T04:36:09.908Z" agent="5.0 (Windows)" version="15.3.5" etag="gOVj2hf5rJ4SsARy00no" type="github"><diagram id="V8tvJf8nlh288LA975P1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-29T07:57:33.281Z" agent="5.0 (Windows)" etag="nosoyHvaAsIGoHiYKkox" version="15.3.5" type="github">
+  <diagram id="V8tvJf8nlh288LA975P1" name="Page-1">
+    <mxGraphModel dx="1210" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mxMeKNb3oaE6FGFnLUK3-1" value="mulai" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
