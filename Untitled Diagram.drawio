@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T15:07:35.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="9JnfUuMfhRKIxNAeSVUY" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T15:14:41.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="uogsFUoFo92Q51eJ6fgf" version="15.8.8" type="github">
   <diagram id="7-kRVJ895avAIdvOHoRN" name="Page-1">
-    <mxGraphModel dx="862" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,6 +49,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O9lwM5MHYDnihaas4i8i-26" target="O9lwM5MHYDnihaas4i8i-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="930" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="460" y="920" />
+              <mxPoint x="460" y="100" />
+              <mxPoint x="625" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9lwM5MHYDnihaas4i8i-13" target="O9lwM5MHYDnihaas4i8i-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O9lwM5MHYDnihaas4i8i-13" value="nilai Rasio HSD dan Oksigen" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="770" width="200" height="80" as="geometry" />
         </mxCell>
@@ -56,13 +69,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O9lwM5MHYDnihaas4i8i-17" value="input Nilai" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="570" width="170" height="55" as="geometry" />
+          <mxGeometry x="115" y="573" width="170" height="55" as="geometry" />
         </mxCell>
         <mxCell id="O9lwM5MHYDnihaas4i8i-21" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O9lwM5MHYDnihaas4i8i-22" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="840" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9lwM5MHYDnihaas4i8i-23" target="O9lwM5MHYDnihaas4i8i-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-23" value="Membandingkan nilai Aktual dan Perhitungan Aplikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9lwM5MHYDnihaas4i8i-25" target="O9lwM5MHYDnihaas4i8i-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-25" value="Analis Hasil Pengujian Aplikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-26" value="Hasil Rasio HSD dan Oksigen" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="890" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-29" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9lwM5MHYDnihaas4i8i-32" target="O9lwM5MHYDnihaas4i8i-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O9lwM5MHYDnihaas4i8i-32" value="Evaluasi Hasil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="330" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
