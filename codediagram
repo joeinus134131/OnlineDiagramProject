@@ -1,41 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T10:04:37.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="gDLajzb2y9bklMvHRzZO" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T10:38:49.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="pvyy3dKGEQVZT-d3_ehB" version="15.9.1" type="github">
   <diagram id="4bfPwmOoMp-ZwkHJfGR-" name="Page-1">
-    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U6izcI4Ui6ftfA2KOqN4-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" width="130" height="40" as="geometry" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-2" target="U6izcI4Ui6ftfA2KOqN4-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U6izcI4Ui6ftfA2KOqN4-2" value="inisialisasi variabel yang digunakan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="87.5" y="276" width="195" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U6izcI4Ui6ftfA2KOqN4-3" value="import library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-3" target="U6izcI4Ui6ftfA2KOqN4-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U6izcI4Ui6ftfA2KOqN4-4" value="masukan label input dan data input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="294" width="120" height="60" as="geometry" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-3" value="&lt;i&gt;Import Library Python&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="120" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U6izcI4Ui6ftfA2KOqN4-5" value="fungsi hitung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-5" target="U6izcI4Ui6ftfA2KOqN4-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U6izcI4Ui6ftfA2KOqN4-8" value="reset data yang telah dimasukan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-5" value="Definisi fungsi hitung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U6izcI4Ui6ftfA2KOqN4-9" value="fungsi print data untuk mode hasil rasio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="384" width="120" height="60" as="geometry" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-8" target="U6izcI4Ui6ftfA2KOqN4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-8" value="Reset Kolom Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-10" target="U6izcI4Ui6ftfA2KOqN4-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U6izcI4Ui6ftfA2KOqN4-10" value="mainloop unuk menampilkan GUI Python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U6izcI4Ui6ftfA2KOqN4-11" value="timbil hitung rasio dan hitung seluruh data thermal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-15" target="U6izcI4Ui6ftfA2KOqN4-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U6izcI4Ui6ftfA2KOqN4-12" value="output data berupa hasil hitungan program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-15" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="U6izcI4Ui6ftfA2KOqN4-13" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-17" target="U6izcI4Ui6ftfA2KOqN4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-17" value="&lt;i&gt;GUI Setting window Configuration&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="73.75" y="200" width="222.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-20" target="U6izcI4Ui6ftfA2KOqN4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-20" value="&lt;span&gt;masukan label input dan data input&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="64.06" y="430" width="241.87" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-31" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-28" target="U6izcI4Ui6ftfA2KOqN4-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="546" />
+              <mxPoint x="30" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-34" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-28" target="U6izcI4Ui6ftfA2KOqN4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-28" value="Cek masukan" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="506" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-33" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-36" target="U6izcI4Ui6ftfA2KOqN4-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-36" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;tombol hitung rasio dan hitung seluruh data thermal&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-37" target="U6izcI4Ui6ftfA2KOqN4-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-37" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-42" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-39" target="U6izcI4Ui6ftfA2KOqN4-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-43" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-39" target="U6izcI4Ui6ftfA2KOqN4-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="520" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="520" />
+              <mxPoint x="350" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-39" value="Hitung Kembali" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-41" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="610" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U6izcI4Ui6ftfA2KOqN4-46" target="U6izcI4Ui6ftfA2KOqN4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-46" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;output data berupa hasil hitungan program&lt;/span&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="200" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
