@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T07:09:24.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.9.1" etag="geswXgkUrK8jGJNYqmD-" type="github"><diagram id="4bfPwmOoMp-ZwkHJfGR-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-08T07:20:15.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="MJojM8xhOZMZMjA9wczx" version="15.9.1" type="github">
+  <diagram id="4bfPwmOoMp-ZwkHJfGR-" name="Page-1">
+    <mxGraphModel dx="1014" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-2" value="inisialisasi variabel yang digunakan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-3" value="import library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-4" value="masukan label input dan data input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-5" value="fungsi hitung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-8" value="reset data yang telah dimasukan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-9" value="fungsi print data untuk mode hasil rasio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-10" value="mainloop unuk menampilkan GUI Python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-11" value="timbil hitung rasio dan hitung seluruh data thermal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-12" value="output data berupa hasil hitungan program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6izcI4Ui6ftfA2KOqN4-13" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
