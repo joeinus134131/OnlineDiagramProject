@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T14:34:57.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="mKpChxbV-R_kgxPoLZPF" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T14:37:03.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8zdLCF1HS65ZNi2TVBdK" version="16.0.3" type="github">
   <diagram id="MO6PTNUeKETRYuCCkUuZ" name="Page-1">
     <mxGraphModel dx="2037" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           <mxGeometry x="530" y="445" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5_tATuIqwRILqYm9jxAn-55" value="Fungsi aktivasi&#xa;Softmax" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Times New Roman;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="483.44" y="-60" width="158.12" height="90" as="geometry" />
+          <mxGeometry x="475.94" y="-57" width="158.12" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5_tATuIqwRILqYm9jxAn-58" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px&quot;&gt;Bias&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="260" y="-50" width="60" height="30" as="geometry" />
