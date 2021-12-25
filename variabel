@@ -1,1 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T00:33:26.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.3" etag="3Ai72TmFYyJYN_ATOuTX" type="github"><diagram id="6e5KlUMQbkUww7MBxlTU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-25T00:39:25.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_W02KzJZ7qFTtz6N39wE" version="16.0.3" type="github">
+  <diagram id="6e5KlUMQbkUww7MBxlTU" name="Page-1">
+    <mxGraphModel dx="1210" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Yy3x-fngx4eJOYZgPVj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="1Yy3x-fngx4eJOYZgPVj-1" target="1Yy3x-fngx4eJOYZgPVj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy3x-fngx4eJOYZgPVj-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Variabel Bebas&lt;/b&gt;&lt;br&gt;Tegangan, Arus dan Frekuensi Motor Induksi 3 Fasa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy3x-fngx4eJOYZgPVj-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Variabel Terikat&lt;/b&gt;&lt;br&gt;Probabilitas Kelas Kerusakan Motor Induksi 3 fasa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy3x-fngx4eJOYZgPVj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=5;" edge="1" parent="1" source="1Yy3x-fngx4eJOYZgPVj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Yy3x-fngx4eJOYZgPVj-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Variabel Kontrol&lt;br&gt;&lt;/b&gt;Kondisi Motor prima tanpa kerusakan dan hasil pengukuran menggunakan alat standar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="342" y="380" width="144" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
