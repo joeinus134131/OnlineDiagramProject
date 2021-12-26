@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T07:35:16.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="gO8BZ0QUfuOauvV_rO5Z" version="16.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-26T17:48:01.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ifANtN-XmveraMUav6vb" version="16.1.0" type="github" pages="3">
   <diagram id="MO6PTNUeKETRYuCCkUuZ" name="ANN Layer">
-    <mxGraphModel dx="2251" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2251" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,7 +312,7 @@
           <mxGeometry x="726" y="463" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5_tATuIqwRILqYm9jxAn-100" value="Fail 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;strokeColor=#00994D;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="980" y="-180" width="80" height="80" as="geometry" />
+          <mxGeometry x="980" y="415" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5_tATuIqwRILqYm9jxAn-101" value="Fail 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;strokeColor=#00994D;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="980" y="-50" width="80" height="80" as="geometry" />
@@ -409,11 +409,14 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Yjla3tGJHoKa6pDMZBYa" name="Page-3">
-    <mxGraphModel dx="1210" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Yjla3tGJHoKa6pDMZBYa" name="motor 3 fasa diagram">
+    <mxGraphModel dx="1210" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UOXoy9mM-Tswq-_3QZ8m-0" />
         <mxCell id="UOXoy9mM-Tswq-_3QZ8m-1" parent="UOXoy9mM-Tswq-_3QZ8m-0" />
+        <mxCell id="UOXoy9mM-Tswq-_3QZ8m-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fontSize=13;strokeWidth=2;" vertex="1" parent="UOXoy9mM-Tswq-_3QZ8m-1">
+          <mxGeometry x="180" y="260" width="180" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
