@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T13:53:39.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dR4uYjuXJ-ZeLJRQvbOE" version="16.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-27T13:54:39.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="05jmeyd4HoG3_CRSAaXH" version="16.1.0" type="github" pages="4">
   <diagram id="MO6PTNUeKETRYuCCkUuZ" name="ANN Layer">
     <mxGraphModel dx="2251" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -466,7 +466,7 @@
         <mxCell id="o6j4YFgL6OB8JMCcEZi5-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=30;strokeWidth=4;" edge="1" parent="o6j4YFgL6OB8JMCcEZi5-1" source="o6j4YFgL6OB8JMCcEZi5-105" target="o6j4YFgL6OB8JMCcEZi5-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o6j4YFgL6OB8JMCcEZi5-105" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; text-align: left&quot;&gt;σ(Σ)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=30;strokeWidth=2;" vertex="1" parent="o6j4YFgL6OB8JMCcEZi5-1">
+        <mxCell id="o6j4YFgL6OB8JMCcEZi5-105" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; text-align: left&quot;&gt;σ(Σ)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=30;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="o6j4YFgL6OB8JMCcEZi5-1">
           <mxGeometry x="530" y="270" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o6j4YFgL6OB8JMCcEZi5-108" value="Sum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="o6j4YFgL6OB8JMCcEZi5-1">
