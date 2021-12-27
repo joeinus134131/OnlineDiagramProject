@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T13:58:20.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oiHLZbhAoMWE41Ww0Ylu" version="16.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-27T13:58:58.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3tNogBi2A_OKb4xMBZPL" version="16.1.0" type="github" pages="4">
   <diagram id="MO6PTNUeKETRYuCCkUuZ" name="ANN Layer">
     <mxGraphModel dx="2251" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
           <mxGeometry x="240" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o6j4YFgL6OB8JMCcEZi5-100" value="&lt;b&gt;Wn&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="o6j4YFgL6OB8JMCcEZi5-1">
-          <mxGeometry x="250" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o6j4YFgL6OB8JMCcEZi5-101" value="Weight" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="o6j4YFgL6OB8JMCcEZi5-1">
           <mxGeometry x="250" y="430" width="60" height="30" as="geometry" />
