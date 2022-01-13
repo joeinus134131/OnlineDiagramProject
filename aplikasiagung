@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T05:02:38.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="N-u3scwbiEnF6KykiPEA" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T05:03:03.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="T8Wr92TLzuC0KSYkd7z8" version="16.1.4" type="github">
   <diagram id="-GOyHMt36K8XLTWliLnN" name="Page-1">
     <mxGraphModel dx="2037" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,8 +189,8 @@
         <mxCell id="yn4Mo6vivxkb7iC4MNFr-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-80" width="980" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yn4Mo6vivxkb7iC4MNFr-56" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px&quot;&gt;Andbio&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="-100" width="370" height="130" as="geometry" />
+        <mxCell id="yn4Mo6vivxkb7iC4MNFr-56" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px&quot;&gt;Andbio V 0.1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-105" width="370" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
