@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T04:58:19.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="K-SIP72hEHKG2Gcl9aUr" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T05:00:55.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0yoNxizZm1xLWTcZcXNN" version="16.1.4" type="github">
   <diagram id="-GOyHMt36K8XLTWliLnN" name="Page-1">
     <mxGraphModel dx="2037" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yn4Mo6vivxkb7iC4MNFr-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="580" width="200" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="yn4Mo6vivxkb7iC4MNFr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yn4Mo6vivxkb7iC4MNFr-31" target="yn4Mo6vivxkb7iC4MNFr-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -144,14 +147,41 @@
         <mxCell id="yn4Mo6vivxkb7iC4MNFr-37" value="Selesai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yn4Mo6vivxkb7iC4MNFr-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yn4Mo6vivxkb7iC4MNFr-40" target="yn4Mo6vivxkb7iC4MNFr-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yn4Mo6vivxkb7iC4MNFr-40" value="Memilih widget" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="660" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yn4Mo6vivxkb7iC4MNFr-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yn4Mo6vivxkb7iC4MNFr-41" target="yn4Mo6vivxkb7iC4MNFr-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yn4Mo6vivxkb7iC4MNFr-41" value="membuat screen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yn4Mo6vivxkb7iC4MNFr-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yn4Mo6vivxkb7iC4MNFr-42" target="yn4Mo6vivxkb7iC4MNFr-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yn4Mo6vivxkb7iC4MNFr-42" value="mengatur tata letak konten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yn4Mo6vivxkb7iC4MNFr-48" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yn4Mo6vivxkb7iC4MNFr-44" target="yn4Mo6vivxkb7iC4MNFr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yn4Mo6vivxkb7iC4MNFr-49" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yn4Mo6vivxkb7iC4MNFr-44" target="yn4Mo6vivxkb7iC4MNFr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="810" as="sourcePoint" />
+            <mxPoint x="450" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yn4Mo6vivxkb7iC4MNFr-51" value="Membuat program logika kerja aplikasi berbasis kode block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="780" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yn4Mo6vivxkb7iC4MNFr-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yn4Mo6vivxkb7iC4MNFr-42" target="yn4Mo6vivxkb7iC4MNFr-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
