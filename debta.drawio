@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T16:01:18.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ioo8kTKc3fILvv-iOyUD" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T16:07:29.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="2ISZwkHdWN8QhnkFpy1G" version="16.6.6" type="github">
   <diagram id="QTfYeUQ7Rm9unRvWBGcr" name="Page-1">
     <mxGraphModel dx="1008" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,14 +210,38 @@
         <mxCell id="DmQkIlmsLLkJQzEmTqlr-8" value="dilakukan&lt;br&gt;pemurnian (KKG)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="220" y="470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DmQkIlmsLLkJQzEmTqlr-9" value="Eluat" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="DmQkIlmsLLkJQzEmTqlr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DmQkIlmsLLkJQzEmTqlr-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="580" />
+              <mxPoint x="130" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmQkIlmsLLkJQzEmTqlr-9" value="Eluat F.1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="510" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DmQkIlmsLLkJQzEmTqlr-10" value="Eluat" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="DmQkIlmsLLkJQzEmTqlr-10" value="fraksi" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="100" y="510" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DmQkIlmsLLkJQzEmTqlr-11" value="Eluat" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="DmQkIlmsLLkJQzEmTqlr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DmQkIlmsLLkJQzEmTqlr-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="580" />
+              <mxPoint x="130" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmQkIlmsLLkJQzEmTqlr-11" value="Eluat F.3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="180" y="510" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmQkIlmsLLkJQzEmTqlr-17" value="diuji kemurniannya (3 sistem eluen berbeda dan&amp;nbsp; uji titik leleh)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="590" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DmQkIlmsLLkJQzEmTqlr-18" value="Senyawa Murni" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="620" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
