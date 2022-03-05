@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T16:07:41.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Rg0g70-ICDAZVJKUv07d" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T16:08:35.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="nKgmymq0Fe_yQ_U3yNPI" version="16.6.6" type="github">
   <diagram id="QTfYeUQ7Rm9unRvWBGcr" name="Page-1">
     <mxGraphModel dx="1008" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="ghC1JUFGdTgHSyiH8fSR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="ghC1JUFGdTgHSyiH8fSR-1" target="ghC1JUFGdTgHSyiH8fSR-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ghC1JUFGdTgHSyiH8fSR-1" value="20 Gram Ekstrak MeOH&lt;br style=&quot;font-size: 14px&quot;&gt;20 + 1 Silika Impregnasi = 40 gram" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="290" y="40" width="220" height="60" as="geometry" />
+        <mxCell id="ghC1JUFGdTgHSyiH8fSR-1" value="20 gram Ekstrak MeOH&lt;br style=&quot;font-size: 14px&quot;&gt;(20 + 1) gram Silika Impregnasi = 40 gram" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="275" y="40" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghC1JUFGdTgHSyiH8fSR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" parent="1" source="ghC1JUFGdTgHSyiH8fSR-2" target="ghC1JUFGdTgHSyiH8fSR-12" edge="1">
           <mxGeometry relative="1" as="geometry">
