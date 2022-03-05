@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T15:48:45.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="N-Lg8PipTJJ_m2Oi9OZM" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T15:49:49.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_nyNnTywUnoVBpT0jbXR" version="16.6.6" type="github">
   <diagram id="QTfYeUQ7Rm9unRvWBGcr" name="Page-1">
     <mxGraphModel dx="1008" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,8 +93,8 @@
         <mxCell id="ghC1JUFGdTgHSyiH8fSR-2" value="33 Fraksi" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="340" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ghC1JUFGdTgHSyiH8fSR-3" value="KLT eluen 15:5 (H : E)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="401" y="220" width="170" height="30" as="geometry" />
+        <mxCell id="ghC1JUFGdTgHSyiH8fSR-3" value="KLT eluen 15:5 (&lt;i&gt;n&lt;/i&gt;-Heksan : EtOAc)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="401" y="220" width="239" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghC1JUFGdTgHSyiH8fSR-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="ghC1JUFGdTgHSyiH8fSR-4" target="ghC1JUFGdTgHSyiH8fSR-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
