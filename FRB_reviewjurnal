@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T03:31:20.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="17.2.4" etag="mUwmlaGnwbWUhgU38J5J" type="github"><diagram id="qNCILU59adr-a9Q0iMbX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-12T03:40:22.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="t-17lGwRsgo6Z8gEgLOW" version="17.2.4" type="github">
+  <diagram id="qNCILU59adr-a9Q0iMbX" name="Page-1">
+    <mxGraphModel dx="1202" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GvCn14n4j_f_yo9EkPXs-1" target="GvCn14n4j_f_yo9EkPXs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GvCn14n4j_f_yo9EkPXs-2" target="GvCn14n4j_f_yo9EkPXs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-2" value="Survey Lokasi&lt;br&gt;Rumah Sakit Nasional Dipenegoro" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GvCn14n4j_f_yo9EkPXs-4" target="GvCn14n4j_f_yo9EkPXs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-4" value="Pengambilan data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GvCn14n4j_f_yo9EkPXs-6" target="GvCn14n4j_f_yo9EkPXs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-6" value="Hasil Pengambilan data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GvCn14n4j_f_yo9EkPXs-8" target="GvCn14n4j_f_yo9EkPXs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-8" value="&lt;ol&gt;&lt;li&gt;Suhu&lt;/li&gt;&lt;li&gt;Kelembaban&lt;/li&gt;&lt;li&gt;Aliran udara volumetrik&lt;/li&gt;&lt;li&gt;Nilai pergantian udarajam&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="414" width="245" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GvCn14n4j_f_yo9EkPXs-13" target="GvCn14n4j_f_yo9EkPXs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-13" value="Analisis Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-15" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GvCn14n4j_f_yo9EkPXs-16" target="GvCn14n4j_f_yo9EkPXs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvCn14n4j_f_yo9EkPXs-16" value="Pengaitan dengan fenomena &lt;i&gt;sick building syndrome&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="740" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
