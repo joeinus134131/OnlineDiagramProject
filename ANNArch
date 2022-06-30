@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T12:53:53.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SRMwDFQicdEhq5y9MDW0" version="20.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-30T12:54:08.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="N5TCIdqc4b3QAyXSN_Sa" version="20.0.3" type="github" pages="5">
   <diagram id="MO6PTNUeKETRYuCCkUuZ" name="ANN Layer">
     <mxGraphModel dx="912" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -959,7 +959,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of ANN Layer" id="SHeFdR3CBpolLw8-j2TH">
-    <mxGraphModel dx="2277" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="o6j4YFgL6OB8JMCcEZi5-0" />
         <mxCell id="o6j4YFgL6OB8JMCcEZi5-1" parent="o6j4YFgL6OB8JMCcEZi5-0" />
@@ -1117,7 +1117,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YE-hgNYZ-Yg-dnJjCHlK" name="Backpropagation">
-    <mxGraphModel dx="1450" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lk50GZ5TAyCSz6d5kA5d-0" />
         <mxCell id="lk50GZ5TAyCSz6d5kA5d-1" parent="lk50GZ5TAyCSz6d5kA5d-0" />
@@ -1194,7 +1194,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yjla3tGJHoKa6pDMZBYa" name="motor 3 fasa diagram">
-    <mxGraphModel dx="1450" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UOXoy9mM-Tswq-_3QZ8m-0" />
         <mxCell id="UOXoy9mM-Tswq-_3QZ8m-1" parent="UOXoy9mM-Tswq-_3QZ8m-0" />
@@ -1205,7 +1205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Wd5QX-hLjh9cSQduIo9r" name="Software">
-    <mxGraphModel dx="1078" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="912" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
