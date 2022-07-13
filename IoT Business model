@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T16:10:15.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="qOAVvym3HusBpsrQrMOP" type="github"><diagram id="e6YqoaW5-SLq3Gl2n6pN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T16:14:02.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XONb07RT_ANuUCmemhAF" version="20.0.4" type="github">
+  <diagram id="e6YqoaW5-SLq3Gl2n6pN" name="Page-1">
+    <mxGraphModel dx="1315" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ks0RjxRE1kIII_1B5cVf-1" target="ks0RjxRE1kIII_1B5cVf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ks0RjxRE1kIII_1B5cVf-2" target="ks0RjxRE1kIII_1B5cVf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-2" value="Survey dari tim marketing untuk mengetaui kebutuhan pasar" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="75" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ks0RjxRE1kIII_1B5cVf-4" target="ks0RjxRE1kIII_1B5cVf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-4" value="Konsumen tertarik dengan produk dari proses rekomendasi" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="80" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ks0RjxRE1kIII_1B5cVf-8" target="ks0RjxRE1kIII_1B5cVf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-8" value="Sales feedback ke konsumen untuk menawarkan produk agar efektif dan tertarget" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ks0RjxRE1kIII_1B5cVf-10" target="ks0RjxRE1kIII_1B5cVf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-10" value="Konsumen membeli produk sesuai dengan keinginan dan interest konsumen" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0RjxRE1kIII_1B5cVf-12" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
