@@ -1,1 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T23:59:39.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="yeljWZJcEyu6SJ0FVSgD" type="github"><diagram id="b9J9etomCrR79MIQhXue">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-22T00:26:06.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="w-nQq3OlFcA8CWz1wwE-" version="20.1.1" type="github">
+  <diagram id="b9J9etomCrR79MIQhXue" name="Page-1">
+    <mxGraphModel dx="1393" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="997zHWPV1RpSUdvLTSbo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-4" target="997zHWPV1RpSUdvLTSbo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-1" target="997zHWPV1RpSUdvLTSbo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-2" target="997zHWPV1RpSUdvLTSbo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-2" target="997zHWPV1RpSUdvLTSbo-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-2" value="Membaca dan simpan&lt;br&gt;data wajah" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-4" value="Include Library &lt;br&gt;dan variabel global" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-10" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-7" target="997zHWPV1RpSUdvLTSbo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-7" target="997zHWPV1RpSUdvLTSbo-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="420" />
+              <mxPoint x="60" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-12" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="997zHWPV1RpSUdvLTSbo-11">
+          <mxGeometry x="-0.0286" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-7" value="Deteksi wajah&lt;br&gt;Pasien" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="155" y="370" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-9" target="997zHWPV1RpSUdvLTSbo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-9" value="Buat bounding box&lt;br&gt;dan % confidence wajah&lt;br&gt;pasien" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="145" y="500" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-20" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-13" target="997zHWPV1RpSUdvLTSbo-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-23" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="997zHWPV1RpSUdvLTSbo-22">
+          <mxGeometry x="-0.2515" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-13" value="Cek Posisi&lt;br&gt;wajah" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="155" y="600" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-19" target="997zHWPV1RpSUdvLTSbo-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="730" />
+              <mxPoint x="600" y="40" />
+              <mxPoint x="803" y="40" />
+              <mxPoint x="803" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-19" value="putar suara&lt;br&gt;Pasien aman" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="997zHWPV1RpSUdvLTSbo-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="510" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="415" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-25" value="putar suara peringatan&lt;br&gt;Pasien terjatuh" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355" y="510" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-29" target="997zHWPV1RpSUdvLTSbo-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-29" value="Load model &lt;br&gt;handrecognition" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-33" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-31" target="997zHWPV1RpSUdvLTSbo-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="958" y="350" />
+              <mxPoint x="958" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-36" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-31" target="997zHWPV1RpSUdvLTSbo-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-31" value="Deteksi Pola&lt;br&gt;&amp;nbsp;Tangan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="300" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-35" target="997zHWPV1RpSUdvLTSbo-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-35" value="Index keluaran&amp;nbsp;kebutuhan pasien&lt;br&gt;&amp;nbsp;berdarkanpola tangan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="466.5" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-38" target="997zHWPV1RpSUdvLTSbo-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-38" value="Tampilkan semua hasil keluaran&lt;br&gt;di frame video realtime" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="582.5" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-40" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="687.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-41" value="Train and validation data&lt;br&gt;wajah" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="997zHWPV1RpSUdvLTSbo-44" target="997zHWPV1RpSUdvLTSbo-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="997zHWPV1RpSUdvLTSbo-44" value="Load model &lt;br&gt;handrecognition" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
