@@ -17,10 +17,13 @@
           <mxGeometry x="530" y="120" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KMwFOJjkS39PzhaUzI2Y-7" value="GCS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="120" width="60" height="60" as="geometry" />
+          <mxGeometry x="340" y="120" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KMwFOJjkS39PzhaUzI2Y-8" value="Auth, Admin, Transaction" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwFOJjkS39PzhaUzI2Y-9" value="&lt;b&gt;MyDX Golang Backend Microservice&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
